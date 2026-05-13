@@ -3,7 +3,7 @@
 import calculation
 
 #      Basic Transport Cost 
-print("[Part 1: BASIC COST for TRANSPORT]") ")
+print("[Part 1: BASIC COST for TRANSPORT] ")
 distance = float(input("Distance to be traveled(km): "))
 efficiency = float(input("Fuel efficiency of vehicle(km/L): "))
 
